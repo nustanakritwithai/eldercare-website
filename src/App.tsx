@@ -3,6 +3,7 @@ import Hero from './components/Hero'
 import HowItWorks from './components/HowItWorks'
 import AIAgents from './components/AIAgents'
 import Features from './components/Features'
+import ServiceMap from './components/ServiceMap'
 import Architecture from './components/Architecture'
 import Pricing from './components/Pricing'
 import CTA from './components/CTA'
@@ -20,6 +21,7 @@ function App() {
         <HowItWorks />
         <AIAgents />
         <Features />
+        <ServiceMap />
         <Architecture />
         <Pricing />
         <CTA />

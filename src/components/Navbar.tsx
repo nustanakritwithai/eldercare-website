@@ -20,6 +20,7 @@ const navItems = [
   { id: 'how-it-works', label: 'วิธีใช้' },
   { id: 'ai-agents', label: 'AI Agents' },
   { id: 'features', label: 'คุณสมบัติ' },
+  { id: 'service-map', label: 'พื้นที่ให้บริการ' },
   { id: 'pricing', label: 'ราคา' },
 ];
 
